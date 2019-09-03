@@ -30,6 +30,6 @@ This pdf file contains all the questions to do the representation of the practic
 
 ## 4. Visualization_Tableau_KC.twbx
 
-This Tableau profile contains the representation of the questions about crypto currencies of the profile Objetivos_Practica.pdf
+This Tableau file contains the representation of the questions about crypto currencies of the file Objetivos_Practica.pdf
 
 
