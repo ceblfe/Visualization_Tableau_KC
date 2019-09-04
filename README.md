@@ -13,7 +13,7 @@ Before to download the .twbx, you need to download and installing the version Ta
 
 ## 1. data/
 
-This file contains all the data to draw all the graphs and dashboard of the practice.
+This file contains all data to draw all the graphs and dashboard of the practice.
 
 The data files are:
   1. CriptoMarket.xls
