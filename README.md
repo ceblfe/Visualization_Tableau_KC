@@ -7,7 +7,7 @@ The files are:
   2. Figuras/
   3. Objetivos_Practica.pdf
   4. Visualization_Tableau_KC.twbx
-  5. README.twbx
+  5. README.md
 
 Before to download the .twbx, you need to download and installing the version Tableau Public to watch the file .twbx
 
