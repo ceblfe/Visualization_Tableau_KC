@@ -1,6 +1,6 @@
 # Data Exploration and Visualization with Tableau
 
-The repository contains the following files to the representation of graphs and dashwoard through Tableau.
+The repository contains the following files for the representation of graphs and dashboard through Tableau.
 
 The files are:
   1. data/
@@ -9,7 +9,7 @@ The files are:
   4. Visualization_Tableau_KC.twbx
   5. README.md
 
-Before to download the .twbx, you need to download and installing the version Tableau Public to watch the file .twbx
+Before you download the .twbx, you will need to download and install the version Tableau Public to view the file .twbx
 
 ## 1. data/
 
@@ -22,7 +22,7 @@ The data files are:
 
 ## 2. Figuras/
 
-This file contains all the figures of cryto currencies to draw the USA map with these figures
+This file contains all the figures of crypto currencies to draw the USA map with these figures
 
 ## 3. Objetivos_Practica.pdf
 
